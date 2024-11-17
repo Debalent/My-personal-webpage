@@ -1,1 +1,1 @@
-# effective-journey
+# personal webpage assignment
